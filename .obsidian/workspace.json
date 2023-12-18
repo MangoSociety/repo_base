@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7a72f7c1f53ad6a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "golang/info/what_is_vkat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#в_процессе",
+                "query": "tag:#готово",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386.5
+    "width": 489.5
   },
   "right": {
     "id": "fb2fd84afcb6464c",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "android/interview_questions/Null_check.md",
+                "file": "golang/info/what_is_vkat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "android/interview_questions/Null_check.md",
+                "file": "golang/info/what_is_vkat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "android/interview_questions/Null_check.md"
+                "file": "golang/info/what_is_vkat.md"
               }
             }
           }
@@ -146,44 +159,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "96ab1f6d9f6285fd",
+  "active": "7a72f7c1f53ad6a1",
   "lastOpenFiles": [
-    "android/interview_questions/Null_safety.md",
-    "android/interview_questions/Null_check.md",
-    "android/interview_questions/Annotation_JvmStatic.md",
-    "android/interview_questions/Difference_between_anonymous_and_declared_object.md",
-    "android/interview_questions/Object_expression.md",
-    "android/interview_questions/Companion_object.md",
-    "android/interview_questions/Object_declaration.md",
-    "android/interview_questions/What_modifier_does_internal_convert_to_in_Java?.md",
-    "android/interview_questions/How_to_migrate_static_methods_from_Java_to_Kotlin.md",
-    "android/interview_questions/Differences_in_equality_testing_equals.md",
-    "android/interview_questions/Difference_between_exception_kotlin_java.md",
-    "android/interview_questions/Anonim_class_companion_object.md",
-    "Untitled.md",
+    "golang/interview_qustions/slice_speed.md",
+    "golang/interview_qustions/slice_warning.md",
+    "golang/interview_qustions/array_slice_in_memory.md",
+    "golang/interview_qustions/slice_for_slice.md",
+    "golang/interview_qustions/concurrency_slice.md",
+    "golang/interview_qustions/max_size_slice.md",
+    "golang/interview_qustions/work_with_slice_bad_good.md",
+    "golang/interview_qustions/what_is_append_in_slice.md",
+    "golang/interview_qustions/difference_between_slice_array.md",
+    "golang/interview_qustions/what_is_slice.md",
+    "golang/info/what_is_vkat.md",
+    "golang/info/interview_backlog/question_task_statistics.md",
+    "golang/info/interview_backlog/history_process_interview.md",
+    "golang/info/interview_backlog/interview_sample.md",
+    "templates/Golang_questions.md",
     "templates/Name_questions.md",
-    "golang/info/interview_backlog/doc_with_more_quest_1.md",
+    "android/interview_questions/Null_check.md",
+    "android/interview_questions/Null_safety.md",
+    "Null_safety_kotlin.md",
+    "android/interview_questions/Difference_between_Any_and_Object.md",
+    "android/interview_questions/Difference_between_exception_kotlin_java.md",
+    "android/interview_questions/Difference_between_val_var_constval.md",
+    "android/interview_questions/Companion_object.md",
+    "android/interview_questions/Access_modifiers.md",
+    "android/interview_questions/compose_stable_immutable.md",
+    "android/interview_questions/Difference_between_anonymous_and_declared_object.md",
+    "golang/interview_qustions",
+    "chotot",
     "templates",
     "android/interview_questions",
     "android",
-    "golang/info/interview_backlog/courses.md",
-    "golang/info/interview_backlog/history_for_road_to_the_golang.md",
-    "golang/info/interview_backlog/history_for_road_to_the_golang_1.md",
-    "golang/info/interview_backlog/history_process_interview.md",
-    "golang/info/interview_backlog/interview_sample.md",
-    "golang/info/interview_backlog/question_task_statistics.md",
-    "golang/info/interview_backlog/books.md",
-    "golang/info/interview_backlog/computer_science.md",
-    "golang/info/interview_backlog/sys_des_and_concurrency.md",
-    "golang/base/Defer.md",
-    "golang/base/type_data.md",
     "golang/info/interview_backlog",
     "golang/info/собесы/Задачи по Golang.txt",
     "golang/info/собесы/Вопросы по Golang.txt",
     "golang/info/собесы",
     "golang/info",
-    "golang/tour-ru/wc/wc.go",
-    "golang/tour-ru/wc",
     "golang/tour-ru/static/img/gopher.png",
     "golang/tour-ru/content/img/tree.png",
     "golang/tour-ru/content/img/newton.png"
