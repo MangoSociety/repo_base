@@ -1,7 +1,7 @@
 #готово  
 
 Sphere : [[android]]
-Theme : [[Object]]
+Theme : #Object
 Title: Разница между анонимным и декларируемым (объявляемым) объектом
 
 ### Content

@@ -1,7 +1,7 @@
 #готово 
 
 Sphere : [[android]]
-Theme : [[Object]]
+Theme : #Object
 Title: Объект-выражение (анонимный объект/object expression)
 
 ### Content

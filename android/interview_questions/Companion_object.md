@@ -1,7 +1,7 @@
 #готово 
 
 Sphere : [[android]]
-Theme : [[Object]]
+Theme : #Object
 Title: Сompanion object (также Singleton)
 
 ### Content

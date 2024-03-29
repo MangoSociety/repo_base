@@ -1,7 +1,7 @@
 #готово 
 
 Sphere : [[android]]
-Theme : [[Object]] [[Class]]
+Theme : #Object #Class
 Title: Кратко про анонимные классы и объекты, object и companion object
 
 ### Content

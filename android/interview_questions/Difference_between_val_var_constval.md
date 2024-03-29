@@ -1,7 +1,7 @@
 #готово 
 
 Sphere : [[android]]
-Theme : [[Kotlin]]
+Theme : #Kotlin
 Title: Разница между var, val, const val
 
 ### Content

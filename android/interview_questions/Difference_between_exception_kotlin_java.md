@@ -1,7 +1,7 @@
 #готово
 
 Sphere : [[android]]
-Theme : [[Exception]]
+Theme : #Exception
 Title: Разница между Exception в Java и Kotlin
 
 ### Content

@@ -1,7 +1,7 @@
 #готово 
 
 Sphere : [[android]]
-Theme : [[Null_safety_kotlin]]
+Theme : #Null_safety_kotlin
 Title: Способы проверки значения на null (if-else, операторы "?.", "!!.", "?:")
 
 ### Content

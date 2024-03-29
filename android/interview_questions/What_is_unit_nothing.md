@@ -1,7 +1,7 @@
 #готово 
 
 Sphere : [[android]]
-Theme : [[Nothing]] [[Unit]]
+Theme : #Nothing #Unit
 Title: Расскажите про типы Unit Nothing
 
 ### Content

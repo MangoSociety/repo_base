@@ -1,7 +1,7 @@
 #готово 
 
 Sphere : [[android]]
-Theme : [[Object]]
+Theme : #Object
 Title: Объявление объекта (object declaration), object как Singleton
 
 ### Content

@@ -1,7 +1,7 @@
 #готово 
 
 Sphere : [[android]]
-Theme : [[compose]]
+Theme :  #compose
 Title: Расскажите немного про jetpack compose и рекомпозиции
 
 ### Content

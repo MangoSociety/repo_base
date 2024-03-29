@@ -1,7 +1,7 @@
 #готово 
 
 Sphere : [[android]]
-Theme : [[static]]
+Theme : #static
 Title: Как перенести статичные методы из Java в Kotlin
 
 ### Content

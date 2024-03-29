@@ -1,7 +1,7 @@
 #готово 
 
 Sphere : [[android]]
-Theme : [[serialization]]
+Theme : #serialization
 Title: Serializable vs parcelable
 
 ### Content

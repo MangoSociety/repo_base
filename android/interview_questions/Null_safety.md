@@ -1,7 +1,7 @@
 #готово 
 
 Sphere : [[android]]
-Theme : [[Null_safety_kotlin]]
+Theme : #Null_safety_kotlin
 Title: Что такое Null safety, nullable и non-nullable типы?
 
 ### Content

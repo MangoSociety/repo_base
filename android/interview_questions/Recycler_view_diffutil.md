@@ -1,7 +1,7 @@
 #готово 
 
 Sphere : [[android]]
-Theme : [[recycler_view]]
+Theme : #recycler_view
 Title: Избавляемся от перерисовок с незначительными изменениями объектов
 
 ### Content

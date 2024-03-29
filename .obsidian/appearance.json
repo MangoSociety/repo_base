@@ -1,3 +1,6 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "cssTheme": "Light & Bright",
+  "baseFontSize": 14,
+  "baseFontSizeAction": true
 }

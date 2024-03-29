@@ -1,7 +1,7 @@
 #готово 
 
 Sphere : [[android]]
-Theme : [[JVM]]
+Theme : #JVM
 Title: Аннотация @JvmStatic
 
 ### Content

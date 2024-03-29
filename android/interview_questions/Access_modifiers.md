@@ -1,7 +1,7 @@
 #готово 
 
 Sphere : [[android]]
-Theme : [[Modifier]]
+Theme : #Modifier
 Title: Модификаторы доступа — private, protected, internal, public
 
 ### Content

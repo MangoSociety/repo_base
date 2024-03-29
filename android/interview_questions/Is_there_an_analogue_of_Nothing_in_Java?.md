@@ -1,7 +1,7 @@
 #в_процессе 
 
 Sphere : [[android]]
-Theme : [[Nothing]]
+Theme : #Nothing
 Title: Есть ли аналог Nothing на Java
 
 ### Content

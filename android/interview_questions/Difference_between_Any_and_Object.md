@@ -1,7 +1,7 @@
 #готово 
 
 Sphere : [[android]]
-Theme : [[Class]]
+Theme : #Class
 Title: Чем Any в Kotlin отличается от Object в Java?
 
 ### Content

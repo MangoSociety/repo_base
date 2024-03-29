@@ -1,7 +1,7 @@
 #готово 
 
 Sphere : [[android]]
-Theme : [[Equals]]
+Theme : #Equals
 Title: Отличия в проверке на равенство
 
 ### Content

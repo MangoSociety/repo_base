@@ -1,7 +1,7 @@
 #готово 
 
 Sphere : [[android]]
-Theme : [[Modifier]]
+Theme : #Modifier
 Title: В какой модификатор преобразуется internal в Java
 
 ### Content
