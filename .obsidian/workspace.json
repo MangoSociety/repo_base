@@ -8,67 +8,151 @@
         "type": "tabs",
         "children": [
           {
-            "id": "38d9d1bbd10fc38e",
+            "id": "f187d922190318a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "android/interview_questions/202411Saturday1911115115115115.md",
+                "file": "android/interview_questions/202440Friday05404018401840184018.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4f7cddda6e2edd3b",
+            "id": "9de0b5a027732e62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "android/interview_questions/202414Saturday19141453145314531453.md",
+                "file": "android/interview_questions/202444Friday05444425442544254425.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1ed90712839ead1d",
+            "id": "86025b131914f9eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "android/interview_questions/202433Friday0633336336336336.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c599953115562fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "android/interview_questions/202434Friday06343414341434143414.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c88f9d26cb4f65c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "android/interview_questions/202440Friday06404035403540354035.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ed707ef5d3d4a5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "android/interview_questions/202437Friday0637373373373373.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6aaf86cc1b542ed1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "android/interview_questions/202443Friday06434331433143314331.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc0c639077c9e3d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "android/interview_questions/202446Friday06464619461946194619.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90d588c95e2366c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "android/interview_questions/202452Friday06525230523052305230.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36a666b0025b9155",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "android/interview_questions/202454Friday06545422542254225422.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b541700a6a1c6bf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "android/interview_questions/202456Friday06565631563156315631.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69952a82e6431e0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "План подготовки к собеседованию.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "040c60842c44ca07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "План подготовки к собеседованию.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "186ee7d259791442",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ну шо у нас, дохуя хотелок и нихуя действий?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -134,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ну шо у нас, дохуя хотелок и нихуя действий?.md",
+                "file": "План подготовки к собеседованию.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ну шо у нас, дохуя хотелок и нихуя действий?.md",
+                "file": "План подготовки к собеседованию.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ну шо у нас, дохуя хотелок и нихуя действий?.md"
+                "file": "План подготовки к собеседованию.md"
               }
             }
           }
@@ -197,37 +281,38 @@
       "random-note:Open random note": false
     }
   },
-  "active": "186ee7d259791442",
+  "active": "69952a82e6431e0a",
   "lastOpenFiles": [
-    "plans/урезанный курс по прилке/Введение.md",
     "План подготовки к собеседованию.md",
-    "Ну шо у нас, дохуя хотелок и нихуя действий?.md",
-    "plans/База подготовки к разработке.md",
+    "android/interview_questions/202401Friday0701014141414.md",
+    "android/interview_questions/202456Friday06565631563156315631.md",
+    "android/interview_questions/202452Friday06525230523052305230.md",
+    "android/interview_questions/202454Friday06545422542254225422.md",
+    "android/interview_questions/202446Friday06464619461946194619.md",
+    "android/interview_questions/202443Friday06434331433143314331.md",
+    "android/interview_questions/202440Friday06404035403540354035.md",
+    "android/interview_questions/202437Friday0637373373373373.md",
+    "android/interview_questions/202434Friday06343414341434143414.md",
+    "android/interview_questions/202433Friday0633336336336336.md",
+    "android/interview_questions/202440Friday05404018401840184018.md",
+    "android/interview_questions/202444Friday05444425442544254425.md",
+    "android/interview_questions/202407Friday05070756756756756.md",
+    "android/interview_questions/202444Friday05444443444344434443.md",
+    "android/interview_questions/202426Friday0526269269269269.md",
+    "android/interview_questions/202426Saturday13262626262626262626.md",
+    "android/interview_questions/202416Saturday13161653165316531653.md",
+    "android/interview_questions/202416Saturday15161625162516251625.md",
+    "android/interview_questions/202416Saturday19161612161216121612.md",
+    "android/interview_questions/202417Saturday15171741174117411741.md",
+    "android/interview_questions/202421Saturday15212144214421442144.md",
+    "android/interview_questions/202422Saturday13222232223222322232.md",
+    "android/interview_questions/202424Saturday19242435243524352435.md",
+    "android/interview_questions/202428Sunday1028284284284284.md",
+    "android/interview_questions/202425Sunday10252552255225522552.md",
+    "mentor",
     "plans/урезанный курс по прилке",
     "plans",
-    "articles/fragment lifecycle.md",
     "articles",
-    "golang.md",
-    "android/interview_questions/compose_stable_immutable.md",
-    "android/interview_questions/compose_what_simple.md",
-    "android/interview_questions/Difference_between_exception_kotlin_java.md",
-    "android/interview_questions/How_to_migrate_static_methods_from_Java_to_Kotlin.md",
-    "android/interview_questions/Null_check.md",
-    "android/interview_questions/Is_there_an_analogue_of_Nothing_in_Java?.md",
-    "android/interview_questions/202401121735.md",
-    "android/interview_questions/202401281501.md",
-    "android/interview_questions/202411Saturday1911115115115115.md",
-    "android/interview_questions/202421Saturday15212144214421442144.md",
-    "android/interview_questions/202417Saturday15171741174117411741.md",
-    "android/interview_questions/202416Saturday15161625162516251625.md",
-    "android/interview_questions/202416Saturday13161653165316531653.md",
-    "android/interview_questions/202416Saturday13161636163616361636.md",
-    "android/interview_questions/202414Saturday19141453145314531453.md",
-    "android/interview_questions/202416Saturday19161612161216121612.md",
-    "android/interview_questions/202424Saturday19242435243524352435.md",
-    "android/interview_questions/202432Sunday10323236323632363236.md",
-    "android/interview_questions/202401121737.md",
-    "android/interview_questions/202401281506.md",
     "company/rdv-api/Структура базы данных.canvas",
     "company/rdv-api",
     "company/dev-android-intern",
@@ -236,7 +321,6 @@
     "golang/interview_qustions",
     "chotot",
     "templates",
-    "android/interview_questions",
     "golang/tour-ru/static/img/gopher.png",
     "golang/tour-ru/content/img/tree.png",
     "golang/tour-ru/content/img/newton.png"
