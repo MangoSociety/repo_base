@@ -8,151 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f187d922190318a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "android/interview_questions/202440Friday05404018401840184018.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9de0b5a027732e62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "android/interview_questions/202444Friday05444425442544254425.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86025b131914f9eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "android/interview_questions/202433Friday0633336336336336.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c599953115562fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "android/interview_questions/202434Friday06343414341434143414.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c88f9d26cb4f65c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "android/interview_questions/202440Friday06404035403540354035.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ed707ef5d3d4a5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "android/interview_questions/202437Friday0637373373373373.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6aaf86cc1b542ed1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "android/interview_questions/202443Friday06434331433143314331.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc0c639077c9e3d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "android/interview_questions/202446Friday06464619461946194619.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90d588c95e2366c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "android/interview_questions/202452Friday06525230523052305230.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36a666b0025b9155",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "android/interview_questions/202454Friday06545422542254225422.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b541700a6a1c6bf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "android/interview_questions/202456Friday06565631563156315631.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "69952a82e6431e0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "План подготовки к собеседованию.md",
+                "file": "android/interview_questions/202449Friday1049494494494494.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2319b18f6ed235d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "android/interview_questions/202428Friday1128286286286286.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ef3ee713baf5b3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "android/interview_questions/202418Friday14181843184318431843.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5026054382324
+    "width": 332.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "fb2fd84afcb6464c",
@@ -218,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "План подготовки к собеседованию.md",
+                "file": "android/interview_questions/202418Friday14181843184318431843.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "План подготовки к собеседованию.md",
+                "file": "android/interview_questions/202418Friday14181843184318431843.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "План подготовки к собеседованию.md"
+                "file": "android/interview_questions/202418Friday14181843184318431843.md"
               }
             }
           }
@@ -267,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,34 +175,34 @@
       "random-note:Open random note": false
     }
   },
-  "active": "69952a82e6431e0a",
+  "active": "6ef3ee713baf5b3f",
   "lastOpenFiles": [
-    "План подготовки к собеседованию.md",
-    "android/interview_questions/202401Friday0701014141414.md",
+    "android/interview_questions/202402Friday14020254254254254.md",
+    "android/interview_questions/202418Friday14181843184318431843.md",
+    "android/interview_questions/202401Friday14010122122122122.md",
+    "android/interview_questions/202459Friday13595951595159515951.md",
+    "android/interview_questions/202459Friday1359595595595595.md",
+    "android/interview_questions/202453Friday13535339533953395339.md",
+    "android/interview_questions/202445Friday1345455455455455.md",
+    "android/interview_questions/202439Friday1339393393393393.md",
+    "android/interview_questions/202432Friday1332320320320320.md",
+    "android/interview_questions/202428Friday1128286286286286.md",
+    "android/interview_questions/202418Friday1118184184184184.md",
+    "android/interview_questions/202406Friday11060658658658658.md",
+    "android/interview_questions/202401Friday11010141141141141.md",
+    "android/interview_questions/202458Friday10585817581758175817.md",
+    "android/interview_questions/202449Friday1049494494494494.md",
+    "android/interview_questions/202427Friday10272719271927192719.md",
     "android/interview_questions/202456Friday06565631563156315631.md",
-    "android/interview_questions/202452Friday06525230523052305230.md",
     "android/interview_questions/202454Friday06545422542254225422.md",
+    "android/interview_questions/202452Friday06525230523052305230.md",
     "android/interview_questions/202446Friday06464619461946194619.md",
     "android/interview_questions/202443Friday06434331433143314331.md",
-    "android/interview_questions/202440Friday06404035403540354035.md",
     "android/interview_questions/202437Friday0637373373373373.md",
+    "android/interview_questions/202440Friday06404035403540354035.md",
     "android/interview_questions/202434Friday06343414341434143414.md",
     "android/interview_questions/202433Friday0633336336336336.md",
-    "android/interview_questions/202440Friday05404018401840184018.md",
     "android/interview_questions/202444Friday05444425442544254425.md",
-    "android/interview_questions/202407Friday05070756756756756.md",
-    "android/interview_questions/202444Friday05444443444344434443.md",
-    "android/interview_questions/202426Friday0526269269269269.md",
-    "android/interview_questions/202426Saturday13262626262626262626.md",
-    "android/interview_questions/202416Saturday13161653165316531653.md",
-    "android/interview_questions/202416Saturday15161625162516251625.md",
-    "android/interview_questions/202416Saturday19161612161216121612.md",
-    "android/interview_questions/202417Saturday15171741174117411741.md",
-    "android/interview_questions/202421Saturday15212144214421442144.md",
-    "android/interview_questions/202422Saturday13222232223222322232.md",
-    "android/interview_questions/202424Saturday19242435243524352435.md",
-    "android/interview_questions/202428Sunday1028284284284284.md",
-    "android/interview_questions/202425Sunday10252552255225522552.md",
     "mentor",
     "plans/урезанный курс по прилке",
     "plans",
