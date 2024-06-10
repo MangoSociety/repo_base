@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "android/interview_questions/202418Friday14181843184318431843.md",
+                "file": "android_base/202403Monday10030318318318318.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20479fd3620ce58b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "golang/interview_qustions/202430Thursday16303041304130413041.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#common",
+                "query": "как устроена мапа",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,12 +102,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 332.5026054382324,
-    "collapsed": true
+    "width": 332.5026054382324
   },
   "right": {
     "id": "fb2fd84afcb6464c",
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "android/interview_questions/202418Friday14181843184318431843.md",
+                "file": "golang/interview_qustions/202430Thursday16303041304130413041.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "android/interview_questions/202418Friday14181843184318431843.md",
+                "file": "golang/interview_qustions/202430Thursday16303041304130413041.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "android/interview_questions/202418Friday14181843184318431843.md"
+                "file": "golang/interview_qustions/202430Thursday16303041304130413041.md"
               }
             }
           }
@@ -175,34 +187,35 @@
       "random-note:Open random note": false
     }
   },
-  "active": "6ef3ee713baf5b3f",
+  "active": "20479fd3620ce58b",
   "lastOpenFiles": [
-    "android/interview_questions/202402Friday14020254254254254.md",
-    "android/interview_questions/202418Friday14181843184318431843.md",
-    "android/interview_questions/202401Friday14010122122122122.md",
-    "android/interview_questions/202459Friday13595951595159515951.md",
-    "android/interview_questions/202459Friday1359595595595595.md",
-    "android/interview_questions/202453Friday13535339533953395339.md",
-    "android/interview_questions/202445Friday1345455455455455.md",
-    "android/interview_questions/202439Friday1339393393393393.md",
-    "android/interview_questions/202432Friday1332320320320320.md",
-    "android/interview_questions/202428Friday1128286286286286.md",
-    "android/interview_questions/202418Friday1118184184184184.md",
-    "android/interview_questions/202406Friday11060658658658658.md",
-    "android/interview_questions/202401Friday11010141141141141.md",
-    "android/interview_questions/202458Friday10585817581758175817.md",
-    "android/interview_questions/202449Friday1049494494494494.md",
-    "android/interview_questions/202427Friday10272719271927192719.md",
-    "android/interview_questions/202456Friday06565631563156315631.md",
-    "android/interview_questions/202454Friday06545422542254225422.md",
-    "android/interview_questions/202452Friday06525230523052305230.md",
-    "android/interview_questions/202446Friday06464619461946194619.md",
-    "android/interview_questions/202443Friday06434331433143314331.md",
-    "android/interview_questions/202437Friday0637373373373373.md",
-    "android/interview_questions/202440Friday06404035403540354035.md",
-    "android/interview_questions/202434Friday06343414341434143414.md",
-    "android/interview_questions/202433Friday0633336336336336.md",
-    "android/interview_questions/202444Friday05444425442544254425.md",
+    "golang/interview_qustions/202426Thursday1626269269269269.md",
+    "golang/info/interview_backlog/question_task_statistics.md",
+    "golang/info/interview_backlog/interview_sample.md",
+    "golang/info/interview_backlog/history_process_interview.md",
+    "golang/info/interview_backlog/history_for_road_to_the_golang_1.md",
+    "golang/info/interview_backlog/history_for_road_to_the_golang.md",
+    "golang/info/interview_backlog/doc_with_more_quest_1.md",
+    "golang/info/interview_backlog/computer_science.md",
+    "golang/info/interview_backlog/courses.md",
+    "golang/info/interview_backlog/books.md",
+    "golang/Чекап знаний.md",
+    "golang/interview_qustions/202404Monday21040452452452452.md",
+    "golang/interview_qustions/202404Monday2104044444444.md",
+    "golang/interview_qustions/202405Monday21050521521521521.md",
+    "golang/interview_qustions/202406Monday21060639639639639.md",
+    "golang/interview_qustions/202407Monday2107075757575.md",
+    "golang/interview_qustions/202408Sunday03080844844844844.md",
+    "golang/interview_qustions/202408Sunday03080823823823823.md",
+    "golang/interview_qustions/202405Monday21050556556556556.md",
+    "golang/interview_qustions/202403Monday21030338338338338.md",
+    "golang/interview_qustions/202403Monday19030319319319319.md",
+    "golang/interview_qustions/202400Thursday1700009090909.md",
+    "golang/base/Defer.md",
+    "golang/base/const.md",
+    "android_base/202410Monday08101051105110511051.md",
+    "golang/base/slice_length_capacity.md",
+    "android_base",
     "mentor",
     "plans/урезанный курс по прилке",
     "plans",
@@ -214,7 +227,6 @@
     "Untitled.canvas",
     "golang/interview_qustions",
     "chotot",
-    "templates",
     "golang/tour-ru/static/img/gopher.png",
     "golang/tour-ru/content/img/tree.png",
     "golang/tour-ru/content/img/newton.png"
