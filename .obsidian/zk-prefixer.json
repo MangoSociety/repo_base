@@ -1,5 +1,5 @@
 {
   "folder": "android_base",
-  "template": "templates/Android",
+  "template": "templates/Golang_questions",
   "format": "YYYYmmddddHHmmmmsmsmsms"
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "android/interview_questions/202449Friday1049494494494494.md",
+                "file": "android_base/202420Friday08202056205620562056.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "android/interview_questions/202428Friday1128286286286286.md",
+                "file": "android_base/202409Friday07090956956956956.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,26 +37,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "android_base/202403Monday10030318318318318.md",
+                "file": "templates/Golang_questions.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "20479fd3620ce58b",
+            "id": "90580d16e5dce7f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "golang/interview_qustions/202430Thursday16303041304130413041.md",
+                "file": "templates/Golang_questions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "как устроена мапа",
+                "query": "tag:#index",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,12 +101,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 332.5026054382324
+    "width": 407.5
   },
   "right": {
     "id": "fb2fd84afcb6464c",
@@ -123,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "golang/interview_qustions/202430Thursday16303041304130413041.md",
+                "file": "android_base/202420Friday08202056205620562056.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "golang/interview_qustions/202430Thursday16303041304130413041.md",
+                "file": "android_base/202420Friday08202056205620562056.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "golang/interview_qustions/202430Thursday16303041304130413041.md"
+                "file": "android_base/202420Friday08202056205620562056.md"
               }
             }
           }
@@ -187,34 +185,34 @@
       "random-note:Open random note": false
     }
   },
-  "active": "20479fd3620ce58b",
+  "active": "69952a82e6431e0a",
   "lastOpenFiles": [
-    "golang/interview_qustions/202426Thursday1626269269269269.md",
-    "golang/info/interview_backlog/question_task_statistics.md",
-    "golang/info/interview_backlog/interview_sample.md",
-    "golang/info/interview_backlog/history_process_interview.md",
-    "golang/info/interview_backlog/history_for_road_to_the_golang_1.md",
-    "golang/info/interview_backlog/history_for_road_to_the_golang.md",
-    "golang/info/interview_backlog/doc_with_more_quest_1.md",
-    "golang/info/interview_backlog/computer_science.md",
-    "golang/info/interview_backlog/courses.md",
-    "golang/info/interview_backlog/books.md",
-    "golang/Чекап знаний.md",
-    "golang/interview_qustions/202404Monday21040452452452452.md",
-    "golang/interview_qustions/202404Monday2104044444444.md",
-    "golang/interview_qustions/202405Monday21050521521521521.md",
-    "golang/interview_qustions/202406Monday21060639639639639.md",
-    "golang/interview_qustions/202407Monday2107075757575.md",
-    "golang/interview_qustions/202408Sunday03080844844844844.md",
-    "golang/interview_qustions/202408Sunday03080823823823823.md",
-    "golang/interview_qustions/202405Monday21050556556556556.md",
-    "golang/interview_qustions/202403Monday21030338338338338.md",
-    "golang/interview_qustions/202403Monday19030319319319319.md",
-    "golang/interview_qustions/202400Thursday1700009090909.md",
-    "golang/base/Defer.md",
-    "golang/base/const.md",
-    "android_base/202410Monday08101051105110511051.md",
-    "golang/base/slice_length_capacity.md",
+    "templates/Golang_questions.md",
+    "android_base/202420Friday08202056205620562056.md",
+    "android_base/202416Friday08161625162516251625.md",
+    "android_base/202414Friday08141416141614161416.md",
+    "android_base/202413Friday08131314131413141314.md",
+    "android_base/202411Friday08111123112311231123.md",
+    "android_base/202410Friday08101040104010401040.md",
+    "android_base/202409Friday08090931931931931.md",
+    "android_base/202408Friday08080833833833833.md",
+    "android_base/202406Friday08060632632632632.md",
+    "android_base/202406Friday0806065656565.md",
+    "android_base/202403Friday08030359359359359.md",
+    "android_base/202402Friday08020221221221221.md",
+    "android_base/202401Friday08010110110110110.md",
+    "android_base/202400Friday08000037037037037.md",
+    "android_base/202459Friday07595934593459345934.md",
+    "android_base/202454Friday07545444544454445444.md",
+    "android_base/202453Friday07535318531853185318.md",
+    "android_base/202452Friday07525219521952195219.md",
+    "android_base/202451Friday07515130513051305130.md",
+    "android_base/202450Friday07505016501650165016.md",
+    "android_base/202445Friday07454540454045404540.md",
+    "android_base/202443Friday07434341434143414341.md",
+    "android_base/202442Friday07424228422842284228.md",
+    "android_base/202440Friday07404047404740474047.md",
+    "android_base/202439Friday07393942394239423942.md",
     "android_base",
     "mentor",
     "plans/урезанный курс по прилке",
